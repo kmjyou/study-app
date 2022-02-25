@@ -63,7 +63,7 @@ export default function DetailPage({navigation,route}) {
     }
 
     const link = () => {
-        Linking.openURL("https://spartacodingclub.kr")
+        Linking.openURL("https://naver.com")
     }
     return ( 
         // ScrollView에서의 flex 숫자는 의미가 없다
